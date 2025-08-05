@@ -1,0 +1,10 @@
+C:\Users\herna\source\repos\Suma\bin\Debug\Suma.exe.config
+C:\Users\herna\source\repos\Suma\bin\Debug\Suma.exe
+C:\Users\herna\source\repos\Suma\bin\Debug\Suma.pdb
+C:\Users\herna\source\repos\Suma\obj\Debug\Suma.csproj.AssemblyReference.cache
+C:\Users\herna\source\repos\Suma\obj\Debug\Suma.Form1.resources
+C:\Users\herna\source\repos\Suma\obj\Debug\Suma.Properties.Resources.resources
+C:\Users\herna\source\repos\Suma\obj\Debug\Suma.csproj.GenerateResource.cache
+C:\Users\herna\source\repos\Suma\obj\Debug\Suma.csproj.CoreCompileInputs.cache
+C:\Users\herna\source\repos\Suma\obj\Debug\Suma.exe
+C:\Users\herna\source\repos\Suma\obj\Debug\Suma.pdb
